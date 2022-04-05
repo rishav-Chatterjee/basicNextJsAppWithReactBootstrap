@@ -1,0 +1,9 @@
+.navBarLink{
+    text-decoration: none;
+    letter-spacing: 0.05rem;
+    padding: 0rem 1rem;
+}
+
+.navLeftAuto {
+    margin-left: auto;
+}

@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "rishav22",
+      "email": "ris@asda.com",
+      "address": "erwerwer",
+      "mobile": "18918918189",
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "dob": "11889100000",
+      "id": "c61624-525a-4ec-18f5-daef2b57223"
+    },
+    {
+      "name": "mac",
+      "email": "tomqwe@asdasd.om",
+      "address": "france",
+      "mobile": "894841681561",
+      "photo": "https://randomuser.me/api/portraits/men/51.jpg",
+      "dob": "94894181",
+      "id": "5a02bb4-22a6-1cc7-e1d-0ac14aa105b"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "ABSFS56151",
+      "title": "Food start-up",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "meeting_date": "17/03/2022",
+      "meeting_status": "ongoing",
+      "is_recorded": true
+    },
+    {
+      "id": "VUGCF98185FC",
+      "title": "Web Application",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "meeting_date": "16/03/2022",
+      "meeting_status": "completed",
+      "is_recorded": false
+    },
+    {
+      "id": "HGVG45654HV",
+      "title": "Holidays Sanction",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "meeting_date": "15/08/2022",
+      "meeting_status": "scheduled",
+      "is_recorded": false
+    },
+    {
+      "id": "UITU546",
+      "title": "E-Learning",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "meeting_date": "12/03/2022",
+      "meeting_status": "completed",
+      "is_recorded": true
+    },
+    {
+      "id": "FWCR5565X",
+      "title": "Youtube Content",
+      "description": "Faucibus nisl tincidunt eget nullam non. Cursus sit amet dictum sit amet justo donec enim.",
+      "meeting_date": "26/06/2022",
+      "meeting_status": "scheduled",
+      "is_recorded": false
+    }
+  ],
+  "recordings": [
+    {
+      "id": "meet-GG8466",
+      "meeting_file_url": "https://this-person-does-not-exist.com/img/avatar-fabb38f36acd312a4474a91eb4ab842c.jpg",
+      "file_size": "50kb"
+    },
+    {
+      "id": "meet-HGC5643",
+      "meeting_file_url": "https://this-person-does-not-exist.com/img/avatar-fabb38f36acd312a4474a91eb4ab842c.jpg",
+      "file_size": "160kb"
+    },
+    {
+      "id": "meet-EWSZ5646HJGV",
+      "meeting_file_url": "https://this-person-does-not-exist.com/img/avatar-fabb38f36acd312a4474a91eb4ab842c.jpg",
+      "file_size": "190kb"
+    },
+    {
+      "id": "meet-VTY8484GHVGV",
+      "meeting_file_url": "https://this-person-does-not-exist.com/img/avatar-fabb38f36acd312a4474a91eb4ab842c.jpg",
+      "file_size": "250kb"
+    },
+    {
+      "id": "meet-PONMI2684MN",
+      "meeting_file_url": "https://this-person-does-not-exist.com/img/avatar-fabb38f36acd312a4474a91eb4ab842c.jpg",
+      "file_size": "400kb"
+    }
+  ]
+}

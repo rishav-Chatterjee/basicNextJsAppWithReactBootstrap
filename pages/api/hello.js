@@ -1,5 +1,9 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
+const response = fetch("http://localhost:8000/users");
+const dataString = JSON.stringify(response);
+
 export default function handler(req, res) {
-  res.status(200).json({ name: 'John Doe' })
+  const data = res.status(200).json(dataString);
+  console.log(data);
 }

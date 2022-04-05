@@ -1,0 +1,31 @@
+.cardMargin {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.linkBtn {
+  text-decoration: none !important;
+  color: white;
+  border: 1px solid #31d2f2;
+  padding: 10px;
+  background-color: #31d2f2;
+  border-radius: 5px;
+}
+
+.backgroundImg {
+  height: 220px;
+  background-position: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  margin: 1rem;
+}
+.linkEditBtn {
+  text-decoration: none !important;
+  color: white;
+  border: 1px solid #0d6efd;
+  padding: 10px;
+  background-color: #0d6efd;
+  border-radius: 5px;
+}
